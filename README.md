@@ -9,3 +9,8 @@ This attempt is written in Rust.
 - Learnt basic syntax of Rust
 - Learnt to use `find`, `rfind`
 - Learnt to use `match` for a slightly cleaner syntax
+
+## Day 2: Minimum Cubes for valid game
+- Used `HashMap`
+- Used `map()` and nest `map()` functions
+- Learnt to use `split()` to separate strings based on separator
