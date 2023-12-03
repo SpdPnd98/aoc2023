@@ -14,3 +14,9 @@ This attempt is written in Rust.
 - Used `HashMap`
 - Used `map()` and nest `map()` functions
 - Learnt to use `split()` to separate strings based on separator
+
+## Day 3: Expanding numbers around special characters
+- Used nested `Vec`
+- Banged my head on borrowing and ownership of variables
+- Learnt to use `fold` to right accumulate values
+- Learnt to use `retain` to remove elements in an `Vec`
