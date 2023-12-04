@@ -20,3 +20,7 @@ This attempt is written in Rust.
 - Banged my head on borrowing and ownership of variables
 - Learnt to use `fold` to right accumulate values
 - Learnt to use `retain` to remove elements in an `Vec`
+
+## Day 4: Lottery
+- Learnt `HashSet`
+- Installed Rust plugin in VSC to ease my way into Rust a bit more (The Hints were very helpful!)
