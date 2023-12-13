@@ -24,3 +24,25 @@ This attempt is written in Rust.
 ## Day 4: Lottery
 - Learnt `HashSet`
 - Installed Rust plugin in VSC to ease my way into Rust a bit more (The Hints were very helpful!)
+
+## Day 5: Seed location
+- Operate with ranges
+- Used `HashMap` more extensively
+
+## Day 6: Boat racing
+- Honestly this day was p chill :)
+
+## Day 7: Card game
+
+## Day 8: Ghost planes
+- Least Common Multiple vs best solution of Chinese Remainder Theorem
+
+## Day 9: Pyramid
+- Derivative and reversing in code
+
+## Day 10: Pipes
+- A lot of parsing
+- Learnt winding number and the odd-and-even rule
+
+## Day 11: Universe
+- Used `PriorityQueue` from `crates`
